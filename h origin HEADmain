@@ -1,0 +1,55 @@
+[33mce10118[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: commit: pagination*
+[33m8d580c6[m[33m ([m[1;32mmain[m[33m)[m HEAD@{1}: checkout: moving from main to 8d580c6dd74782aed1bacbd33a61af7d5fe3f125
+[33m8d580c6[m[33m ([m[1;32mmain[m[33m)[m HEAD@{2}: commit: added componentDidMount to Users class componrnt
+[33me06fe66[m HEAD@{3}: commit: added link to Music and News
+[33ma795191[m HEAD@{4}: commit: added users to NavBar
+[33m15f1a8c[m HEAD@{5}: commit: added class component to Users.jsx
+[33m88195a7[m HEAD@{6}: commit: take away side effect from Users component
+[33m8e0ccc3[m HEAD@{7}: commit: added to src folder assets/images/User.png
+[33m5bbc891[m HEAD@{8}: commit: install axios
+[33m357f3d4[m HEAD@{9}: commit: deleted React.StrictMode in index.js
+[33mccc5fa8[m HEAD@{10}: commit: added Users
+[33m5c0917e[m HEAD@{11}: commit: make a copy of the state of dialogsReducer
+[33m9a265f5[m HEAD@{12}: commit: make a copy of the state of profileReducer
+[33ma85d91f[m HEAD@{13}: commit: connect, mapStateToProps, mpDispatchToProps
+[33m74b1555[m HEAD@{14}: commit: +context API
+[33mbc1d0e5[m HEAD@{15}: commit: added container components to Dialogs and Profile
+[33m7f73fb8[m HEAD@{16}: commit: connected redux-store to project
+[33m6568c3d[m HEAD@{17}: commit: import reducers to state
+[33m1e1dc48[m HEAD@{18}: commit: change communication textarea with state
+[33m9233ccd[m HEAD@{19}: commit: added action creator to mssages
+[33maf22baa[m HEAD@{20}: commit: added action creator to posts
+[33m20db071[m HEAD@{21}: commit: added dispatch and action
+[33m14e1a90[m HEAD@{22}: commit: state -> store. Refactoring
+[33ma3bf5ad[m HEAD@{23}: commit: callback, subscribe, observer
+[33m489c8fb[m HEAD@{24}: commit: added messages
+[33maa015d8[m HEAD@{25}: commit: FLUX architecture. Text managment through transfer of BLL changes to UI
+[33m753cf14[m HEAD@{26}: commit: added posts
+[33m2d0ae0b[m HEAD@{27}: commit: added rerenderEntireTree
+[33m8e6a1cd[m HEAD@{28}: commit: added addPost to statee
+[33m40bfb8e[m HEAD@{29}: commit: added Friends at project
+[33m1e96626[m HEAD@{30}: commit: added textarea in posts and dialogs
+[33m20400e5[m HEAD@{31}: commit: added Friends, change path BrowserRouter in index.js
+[33m16b1644[m HEAD@{32}: commit: added new folder redux, added new file state.js
+[33ma5fd76a[m HEAD@{33}: commit: *
+[33m208ff66[m HEAD@{34}: commit: took out the data to index,js
+[33m6604189[m HEAD@{35}: commit: changed the structure project
+[33m4f2e513[m HEAD@{36}: commit: added .map in array dialogs and message
+[33mbeef012[m HEAD@{37}: commit: added dialogsElements
+[33m8058a7f[m HEAD@{38}: commit: added aray to messages and posts
+[33m8af8106[m HEAD@{39}: commit: added favicon
+[33m8ede97a[m HEAD@{40}: commit: added new folder ProfileInfo and added new files ProfileInfo.jsx, ProfileInfo.module.css
+[33mcb8ecb1[m HEAD@{41}: commit: added message props
+[33m2509927[m HEAD@{42}: commit: added dialog props
+[33m43a36cb[m HEAD@{43}: commit: added changes to dialogs
+[33ma090f6f[m HEAD@{44}: commit: added files Dialogs.module.css and Dialogs.jsx added dialogues and messages
+[33m7d43295[m HEAD@{45}: commit: added files Navbar.jsx, Navbar.module.css, format code
+[33m04ce90c[m HEAD@{46}: commit: added new folders and files Music/Music.jsx, Musik.modules.css, Settings/Settings.jsx, Settiings.modules.css, News/News.jsx, News. modules.css, added App.js
+[33me6c9b8e[m HEAD@{47}: commit: npm install react-router-dom
+[33m9a7760d[m HEAD@{48}: commit: added file Navbar.jsx
+[33mf1dddbd[m HEAD@{49}: commit: added new folder Dialogs, added new files Dialogs.jsx, Dialogs.module.css
+[33md6dff90[m HEAD@{50}: commit: added props to Post.jsx and MyPosts.jsx
+[33mbd9cc8e[m HEAD@{51}: commit: changed folder structure, improved css, added new components - Post.jsx & css
+[33m2f21464[m HEAD@{52}: commit: created new files Navbar.module.css Profile.module.css Header.module.css changed file App.css changed style css
+[33mc6cb26c[m HEAD@{53}: commit: create new file Header.css
+[33mda4597e[m HEAD@{54}: clone: from https://github.com/KateKashpur/Way_Samurai.git

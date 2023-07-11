@@ -1,0 +1,18 @@
+.userPhoto {
+  width: 100px;
+  height: 100px;
+}
+.userFullname {
+  color: rgb(229, 216, 242);
+}
+.userStatus {
+  color: rgb(77, 255, 0);
+}
+
+.userLocation {
+  color: rgb(237, 15, 15);
+}
+
+.selectedPage {
+  font-weight: bold;
+}
